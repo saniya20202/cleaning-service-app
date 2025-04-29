@@ -1,0 +1,9 @@
+# Ignore node_modules folders
+frontend/frontend-cleaning-service/node_modules/
+backend/backend-cleaning-service/node_modules/
+
+# Ignore production builds
+frontend/frontend-cleaning-service/build/
+
+# Ignore environment secrets
+backend/backend-cleaning-service/.env
