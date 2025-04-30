@@ -6,4 +6,3 @@ backend/backend-cleaning-service/node_modules/
 frontend/frontend-cleaning-service/build/
 
 # Ignore environment secrets
-backend/backend-cleaning-service/.env
