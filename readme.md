@@ -88,7 +88,9 @@ In your terminal:
 
 cd frontend/frontend-cleaning-service
 
-✅ Step 2: Install dependencies
+✅ Step 2: Install dependencies:
+                                          
+      
 npm install
 
 📦 This installs:
