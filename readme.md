@@ -43,11 +43,11 @@ download the zip file from github and extract it.
 ✅ Step 1: Open terminal in backend folder
 In VS Code terminal: 
 
-    cd backend/backend-cleaning-service
+        cd backend/backend-cleaning-service
 
 ✅ Step 2: Install dependencies
     
-    npm install
+        npm install
     
 This will install:
 
@@ -68,7 +68,7 @@ jsonwebtoken
 ✅ Step 4: Start the backend
 
 Run:this on terminal 
-  npm start
+      npm start
 
 ✅ If everything is okay, you'll see:
   MongoDB Connected
@@ -85,6 +85,7 @@ Run:this on terminal
 
 ✅ Step 1: Open terminal in frontend folder
 In your terminal:
+
 cd frontend/frontend-cleaning-service
 
 ✅ Step 2: Install dependencies
